@@ -142,8 +142,8 @@ export function tierState(save: SaveData, track: 'free' | 'premium', tier: numbe
 
 ## Contact
 
-Made by **Amir**. Feedback is welcome inside the game (Settings → Feedback), or on the [itch.io page](https://amirsams.itch.io/squishy-fall).
+Made by **amirsams**. Feedback is welcome inside the game (Settings → Feedback), or on the [itch.io page](https://amirsams.itch.io/squishy-fall).
 
 ---
 
-<sub>© 2026 Amir. All rights reserved. Squishy Fall, its art and its code may not be copied or redistributed.</sub>
+<sub>© 2026 amirsams. All rights reserved. Squishy Fall, its art and its code may not be copied or redistributed.</sub>
